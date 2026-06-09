@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em 2020, durante meus primeiros estudos em programação e desenvolvimento web.
 
-O Site da Barbearia foi criado como uma página institucional simples, com o objetivo de apresentar uma barbearia, seus serviços e informações principais de forma organizada e visualmente agradável.
+O Site da Barbearia foi criado como uma página institucional, com o objetivo de apresentar uma barbearia, seus serviços e informações principais de forma organizada e visualmente agradável.
 
 Esse projeto representa uma das minhas primeiras experiências práticas com HTML e CSS, aplicando conceitos iniciais de estruturação de páginas, estilização e organização de conteúdo.
 
@@ -20,7 +20,7 @@ Por ter sido desenvolvido no início da minha jornada em programação, este pro
 
 ## Objetivo
 
-O objetivo principal do projeto foi praticar os fundamentos do desenvolvimento front-end, criando uma página simples, funcional e visualmente organizada.
+O objetivo principal do projeto foi praticar os fundamentos do desenvolvimento front-end, criando uma página funcional e visualmente organizada.
 
 Com esse projeto, pude aprender melhor sobre:
 
@@ -47,7 +47,7 @@ Com esse projeto, pude aprender melhor sobre:
 - Uso de imagens para composição da página
 - Estruturação de conteúdo com HTML
 - Estilização com CSS
-- Organização simples dos arquivos do projeto
+- Organização dos arquivos do projeto
 
 ---
 
@@ -59,3 +59,44 @@ Site-Da-Barbearia/
 ├── Estilo.css
 ├── Hairdresser-bro.png
 └── como-escolher-barbearia-800x300.png
+```
+
+---
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos fundamentais para minha base em desenvolvimento web.
+
+Entre os principais aprendizados estão:
+
+- Como criar a estrutura inicial de uma página HTML
+- Como aplicar estilos usando CSS
+- Como inserir e organizar imagens em um site
+- Como separar arquivos HTML e CSS
+- Como construir uma página para apresentação de serviços
+- Como armazenar projetos no GitHub
+
+---
+
+## Contexto
+
+Este projeto foi desenvolvido em 2020, quando eu estava começando minha trajetória na programação.
+
+Hoje, olhando para este projeto, consigo perceber minha evolução desde páginas em HTML e CSS até sistemas mais completos, com backend, banco de dados, autenticação e integração entre camadas.
+
+Por isso, mantenho este projeto no meu portfólio como registro do início da minha jornada no desenvolvimento web.
+
+---
+
+## Status do projeto
+
+Projeto concluído como prática de aprendizado.
+
+---
+
+## Autor
+
+Desenvolvido por João Vitor.
+
+[GitHub](https://github.com/LimpingSCult242)  
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-honorio-1350ab3a8/)
